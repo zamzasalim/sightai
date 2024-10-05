@@ -1,0 +1,20 @@
+{
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethers": "^6.13.2",
+    "https-proxy-agent": "^7.0.5",
+    "moment-timezone": "^0.5.45",
+    "twisters": "^1.1.0",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "ncp": "^2.0.0"
+  }
+}
