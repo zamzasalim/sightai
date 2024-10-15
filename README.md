@@ -10,7 +10,8 @@
 # SIGHTAI Testnet Bot
 - Join Testnet : [Here](https://sightai.io/dashboard?referral-code=YHGXXZ)
 ## Siapkan privatekey (pastikan ada 1 ETH Holesky)
-- Kalo gk punya bridge di mari https://rinkeby.orbiter.finance/?source=Sepolia&dest=Holesky&token=ETH
+- Buy ETH Sepolia : https://testnetbridge.com/sepolia
+- Bridge Sepolia to Holesky : https://rinkeby.orbiter.finance/?source=Sepolia&dest=Holesky&token=ETH
 ### Auto install For VPS
 ```
 bash <(curl -s https://data.zamzasalim.xyz/file/uploads/sightai.sh)
